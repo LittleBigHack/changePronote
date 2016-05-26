@@ -1,0 +1,340 @@
+<html><!-- PRINCIPAIS FUNÇÕES CRIADA PELO LoToS
+	 SKYPE: everton.neri.da.silva--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Agario Brasileiro, agario private server, play agario, jogue agario, conquiste o top 10 comendo outras celulas e torne-se a maior celula do jogo!">
+<meta name="keywords" content="Agario, Brasil, agariopvt, agario, brasil agar.io, ogar, ogar.io, ogario, agario, ogario, agar, io, cell, cells, virus, bacteria, blob, game, games, web game, html5, fun, flash">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="minimal-ui, width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta property="fb:app_id" content="677505792353827">
+<meta property="og:title" content="Agar.io">
+<meta property="og:description" content="Eat cells smaller than you and don't get eaten by the bigger ones, as an MMO">
+<meta property="og:url" content="index.html">
+<meta property="og:image" content="img/1200x630.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:type" content="website">
+<title>Agario Brasil - Agario Agar.io jogue agario em servidor brasileiro</title>
+<link id="favicon" rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACyElEQVRYhdVWsW4TQRDd0PAFgZtZI3Z2r6AHGlIBooiEBBGiClJEBz9ARWio+ACQoIlQqihNQEpEBEUkREFBE/v2zrEdJ3YcJwUCISEQApbCnHO3d2c79kWClV61t/fezpuZHcb+p7V5gk4GXNzxUc5ppIUAxcsAxZIGmtdIj8tczbQddzx34mpBTfpcrGkg44HoCQ3C+CDeVUFNjUzcOOUqH2ixH2kWSiheBSDPDXdrri75INrDkncj4tCPMlczhyKvFeS0nxHuMpLZ5tLscNVFk0uzhdJsYLZFG0APByLf4PJqmtdlJLPLlflYcHtijytTyRDSNxJlR57XKL7aB+so+xLbaHJpdIodtV45oUEs2+Tb/PDkIdpcJUSUUKymkle5umiTbw1x82QkVMKKgNPNhAAfxYtY0iCNTB6iaueEQ+9j5IaxYxroW/SjQRJuUOynRKHC3cJB+FFdj276kN/tQ9iVUeTibldA4MhH0c3NHLy30eAyHgWUcwflB/Q8utkcIfOzsJu0YSWagKvRzVaO/ofYswQUQXyICKDXR5WAIdp2BKKVECAtRDd3jkCA3Q800HxEgHiSdwOyUcd4EgYOzUYEyNuxGs2xCYWwX8oi0pWugIrjjts9ey9HG1L8/8IYG7MeInp7VFGood0DxFLiLaige81ul40c+kErpQ17XF5OCOhEQazEM3W0kuw8x3HvM59jxhjzQZ31gL7bIoYpy0baQAL0M0A1kSmAMcYqIKftgx4IU0Np9gcQ0u4xknlAt3qSd61waDb9B53ZsI7SNLk0La5M6+9QWkdpggxiDcJoR9wbiLxrB1czPtCvLCGDooTik1+QNw5FHq4A1cS6Q2+GJdcoFsoozgxFHl0a1JQHYk2D+N2X2KHPHpxe9FFdGJnYXhXXPe45anLdEQ9KQM+8zhS97AE91UD3dae9jvX90b+0/gBXyNszFnjsgwAAAABJRU5ErkJggg==">
+
+
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:700" rel="stylesheet" type="text/css">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/glyphicons-social.css" rel="stylesheet">
+<link href="css/animate.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="img.css">
+<link href="css/main.css?2" rel="stylesheet">
+
+<script async="" src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.fr.w4ahBDOJ_Mc.O/m=gapi_iframes_style_bubble/exm=auth,ytsubscribe/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMfNRlUdVR6vUwKMQfZVk0kQg1WqQ/cb=gapi.loaded_2"></script><script async="" src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.fr.w4ahBDOJ_Mc.O/m=auth/exm=ytsubscribe/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMfNRlUdVR6vUwKMQfZVk0kQg1WqQ/cb=gapi.loaded_1"></script><script async="" src="https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.fr.w4ahBDOJ_Mc.O/m=ytsubscribe/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCMfNRlUdVR6vUwKMQfZVk0kQg1WqQ/cb=gapi.loaded_0"></script><script src="//www.google-analytics.com/analytics.js" async=""></script><script src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5&amp;appId=109824315880913" id="facebook-jssdk"></script><script src="http://www.googletagservices.com/tag/js/gpt.js" type="text/javascript" async=""></script><script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/gameoff.js?921"></script><script type="text/javascript" src="js/systems.js"></script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script async="" src="http://partner.googleadservices.com/gpt/pubads_impl_88.js"></script><style>.gc-bubbleDefault{background-color:transparent !important;text-align:left;padding:0 !important;margin:0 !important;border:0 !important;table-layout:auto !important}.gc-reset{background-color:transparent !important;border:0 !important;padding:0 !important;margin:0 !important;text-align:left}.pls-bubbleTop{border-bottom:1px solid #ccc !important}.pls-topTail,.pls-vertShimLeft,.pls-contentLeft{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif) !important}.pls-topTail{background-repeat:repeat-x !important;background-position:bottom !important}.pls-vertShim{background-color:#fff !important;text-align:right}.tbl-grey .pls-vertShim{background-color:#f5f5f5 !important}.pls-vertShimLeft{background-repeat:repeat-y !important;background-position:right !important;height:4px}.pls-vertShimRight{height:4px}.pls-confirm-container .pls-vertShim{background-color:#fff3c2 !important}.pls-contentWrap{background-color:#fff !important;position:relative !important;vertical-align:top}.pls-contentLeft{background-repeat:repeat-y;background-position:right;vertical-align:top}.pls-dropRight{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleDropR_3.png) !important;background-repeat:repeat-y !important;vertical-align:top}.pls-vert,.pls-tailleft,.pls-dropTR .pls-dropBR,.pls-dropBL,.pls-vert img{vertical-align:top}.pls-dropBottom{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleDropB_3.png) !important;background-repeat:repeat-x !important;width:100%;vertical-align:top}.pls-topLeft{background:inherit !important;text-align:right;vertical-align:bottom}.pls-topRight{background:inherit !important;text-align:left;vertical-align:bottom}.pls-bottomLeft{background:inherit !important;text-align:right}.pls-bottomRight{background:inherit !important;text-align:left;vertical-align:top}.pls-tailtop,.pls-tailright,.pls-tailbottom,.pls-tailleft{display:none;position:relative}.pls-tailbottom,.pls-tailtop,.pls-tailright,.pls-tailleft,.pls-dropTR,.pls-dropBR,.pls-dropBL{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleSprite_3.png) !important;background-repeat:no-repeat}.tbl-grey .pls-tailbottom,.tbl-grey .pls-tailtop,.tbl-grey .pls-tailright,.tbl-grey .pls-tailleft,.tbl-grey .pls-dropTR,.tbl-grey .pls-dropBR,.tbl-grey .pls-dropBL{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleSprite-grey.png) !important}.pls-tailbottom{background-position:-23px 0}.pls-confirm-container .pls-tailbottom{background-position:-23px -10px}.pls-tailtop{background-position:-19px -20px}.pls-tailright{background-position:0 0}.pls-tailleft{background-position:-10px 0}.pls-tailtop{vertical-align:top}.gc-bubbleDefault td{line-height:0;font-size:0}.pls-topLeft img,.pls-topRight img,.pls-tailbottom{vertical-align:bottom}.pls-bottomLeft img,.bubbleDropTR,.pls-dropBottomL img,.pls-dropBottom img,.pls-dropBottomR img,.pls-bottomLeft{vertical-align:top}.pls-dropTR{background-position:0 -22px}.pls-dropBR{background-position:0 -27px}.pls-dropBL{background-position:0 -16px}.pls-spacertop,.pls-spacerright,.pls-spacerbottom,.pls-spacerleft{position:static !important}.pls-spinner{bottom:0;position:absolute;left:0;margin:auto;right:0;top:0} </style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
+<body>
+<div class=" fb_reset" id="fb-root"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe src="http://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f21f7857c2844b6&amp;origin=http%3A%2F%2Fagario.com.br" style="border: medium none;" tabindex="-1" title="Facebook Cross Domain Communication Frame" aria-hidden="true" id="fb_xdm_frame_http" scrolling="no" allowfullscreen="true" allowtransparency="true" name="fb_xdm_frame_http" frameborder="0"></iframe><iframe src="https://staticxx.facebook.com/connect/xd_arbiter.php?version=42#channel=f21f7857c2844b6&amp;origin=http%3A%2F%2Fagario.com.br" style="border: medium none;" tabindex="-1" title="Facebook Cross Domain Communication Frame" aria-hidden="true" id="fb_xdm_frame_https" scrolling="no" allowfullscreen="true" allowtransparency="true" name="fb_xdm_frame_https" frameborder="0"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe src="https://www.facebook.com/connect/ping?client_id=677505792353827&amp;domain=agario.com.br&amp;origin=1&amp;redirect_uri=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df231ab52238aacc%26domain%3Dagario.com.br%26origin%3Dhttp%253A%252F%252Fagario.com.br%252Ff21f7857c2844b6%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;" scrolling="no" allowfullscreen="true" allowtransparency="true" name="f2fa8648a89bd92" frameborder="0"></iframe></div></div></div>
+<div id="overlays" style="position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px; z-index: 200;">
+<div style="transform: translate(-50%, -50%) scale(0.96264);" id="helloContainer" data-logged-in="0" data-has-account-data="0" data-party-state="5" data-results-state="0" data-gamemode=":party">
+<div class="side-container">
+<div class="agario-panel agario-side-panel ">
+<!-- vertical videos agario -->
+<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8763263514983671" data-ad-slot="5417336748"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+<div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+<div class="modal-dialog">
+<div class="loginmodal-container">
+<h1>Login</h1>
+<form id="giris">
+<label>Nome de usuario</label>
+<input name="nick" id="kullanici" placeholder="Nick" required="" type="text">
+<label>Senha</label>
+<input name="senha" id="sifre" placeholder="Senha" required="" type="password">
+<div id="girisSonuc"></div>
+<span onclick="girisYap();" class="btn btn-success btn-md login-btn">Login</span>
+<button type="button" class="btn btn-warning" data-dismiss="modal"><span>Voltar</span></button>
+</form>
+</div>
+</div>
+</div>
+<div class="modal fade" id="register-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+<div class="modal-dialog">
+<div class="loginmodal-container">
+<form id="kayit-form" action="phps/register.php" method="post">
+<h1>Registro</h1>
+<label>Nick de Jogador</label>
+<input name="nick" id="kullanici" onkeyup="karakterfiltre(this);" placeholder="Nick" required="" type="text">
+<label>Senha</label>
+<input name="senha" id="sifre" placeholder="Senha" required="" type="password">
+<label>Repita a senha</label>
+<input name="senha2" id="sifre2" placeholder="Senha novamente" required="" type="password">
+<label>E-mail</label>
+<input name="mail" id="mail" placeholder="E-mail" required="" type="text">
+<div id="kayitSonuc"></div>
+<span onclick="kayitOl();" class="btn btn-success btn-md login-btn">Confirmar</span>
+<button type="button" class="btn btn-warning" data-dismiss="modal"><span>Voltar</span></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+ 
+</div>
+<div id="mainPanel" class="agario-panel">
+<form role="form">
+<div class="form-group clearfix">
+<div style="float: left; margin-left: 20px;"><h2>Agario Brasil</h2></div>
+<div style="float: left; margin-top: 0px; height: 20px; margin-left: 0px;">
+<script gapi_processed="true" src="https://apis.google.com/js/platform.js" async=""></script>
+<div id="___ytsubscribe_0" style="text-indent: 0px; margin: 0px; padding: 0px; background: transparent none repeat scroll 0% 0%; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 110px; height: 25px;"><iframe data-gapiattached="true" src="https://www.youtube.com/subscribe_embed?usegapi=1&amp;count=default&amp;layout=default&amp;channelid=UCDDcKBnVu_4OqdbC8abMpDg&amp;origin=http%3A%2F%2Fagario.com.br&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.fr.w4ahBDOJ_Mc.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMfNRlUdVR6vUwKMQfZVk0kQg1WqQ#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1464278851136&amp;parent=http%3A%2F%2Fagario.com.br&amp;pfname=&amp;rpctoken=31151147" name="I0_1464278851136" id="I0_1464278851136" vspace="0" tabindex="0" style="position: static; top: 0px; width: 110px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 25px;" scrolling="no" marginwidth="0" marginheight="0" hspace="0" frameborder="0" width="100%"></iframe></div>
+<div style="float: right; margin-top: -5px;"><div fb-iframe-plugin-query="action=like&amp;app_id=677505792353827&amp;container_width=0&amp;href=https%3A%2F%2Fwww.facebook.com%2FAgarioMania%2F&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;show_faces=false" fb-xfbml-state="rendered" class="fb-like fb_iframe_widget" data-href="https://www.facebook.com/AgarioMania/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" style="margin:7px;"><span style="vertical-align: bottom; width: 81px; height: 21px;"><iframe class="" src="https://www.facebook.com/v2.2/plugins/like.php?action=like&amp;app_id=677505792353827&amp;channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df362d6b13f770da%26domain%3Dagario.com.br%26origin%3Dhttp%253A%252F%252Fagario.com.br%252Ff21f7857c2844b6%26relation%3Dparent.parent&amp;container_width=0&amp;href=https%3A%2F%2Fwww.facebook.com%2FAgarioMania%2F&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;share=false&amp;show_faces=false" style="border: medium none; visibility: visible; width: 81px; height: 21px;" title="fb:like Facebook Social Plugin" scrolling="no" allowfullscreen="true" allowtransparency="true" name="f279e479c296f3c" frameborder="0" height="1000px" width="1000px"></iframe></span></div></div>
+<div class="clearfix">
+</div>
+</div>
+</div>
+<div class="form-group clearfix">
+<input id="nick" class="form-control" placeholder="Nick" maxlength="13" autofocus="">
+<select id="gamemode" class="form-control" onchange="setGameMode($(this).val());" required="">
+<option selected="" value="" data-itr="gamemode_ffa">FFA</option>
+<option value=":ffa2">FFA 2</option>
+<option value=":teams" data-itr="gamemode_teams">Teams</option>
+<option value=":experimental" data-itr="gamemode_experimental">Experimental</option>
+</select>
+<br>
+
+</div>
+
+ 
+<div class="form-group" id="agario-main-buttons">
+
+<br>
+<button type="button" onclick="$('#settings, #instructions').toggle();return false;" class="btn btn-info btn-settings"><i class="glyphicon glyphicon-cog"></i></button>
+<button type="submit" onclick="setNick(document.getElementById('nick').value); setmaxIdleTime(5); return false;" class="btn btn-play btn-primary btn-needs-server" data-itr="play">Play</button>
+<button type="submit" onclick="setNick(document.getElementById('nick').value); setmaxIdleTime(5); return false;" class="btn btn-play-guest btn-success btn-needs-server" data-itr="play_as_guest" id="playasguest">Play</button>
+
+
+<a href="#" class="btn btn-success" data-toggle="modal" data-target="#login-modal" style="margin-left:5px; height:35px;">Login</a>
+<a href="#" class="btn btn-primary" data-toggle="modal" data-target="#register-modal" style="height:35px;">Registrar</a>
+
+
+
+<br clear="all">
+
+
+<div id="settings" class="checkbox" style="display:none;">
+
+
+
+
+<div style="float: left; width: 200px;">
+<div id="locationKnown"><select id="region" class="form-control" onchange="setRegion($('#region').val());" required="">
+<option selected="" disabled="" value="" data-itr="region_select"> -- Select a Region -- </option>
+<option value="BR-Brazil" data-itr="region_south_america">Brasil Servers</option>
+<option value="BR-Brazil" data-itr="region_north_america">EUA Servers</option>
+</select></div>
+<div id="options" style="margin: 6px; font-size: 12px;">
+<label><input onchange="setSkins(!$(this).is(':checked'));" type="checkbox"><span data-itr="option_no_skins">No skins</span></label>
+<label><input onchange="setNames(!$(this).is(':checked'));" type="checkbox"><span data-itr="option_no_names">No names</span></label>
+<label><input onchange="setColors($(this).is(':checked'));" type="checkbox"><span data-itr="option_no_colors">No colors</span></label>
+<label><input onchange="setShowMass($(this).is(':checked'));" type="checkbox"><span data-itr="option_show_mass">Show mass</span></label>
+<label><input onchange="setDarkTheme($(this).is(':checked'));" type="checkbox"><span data-itr="option_dark_theme">Dark theme</span></label>
+<label><input onchange="setSkipStats($(this).is(':checked'));" type="checkbox"><span data-itr="option_skip_stats">Skip stats</span></label>
+</div>
+</div>
+<div style="float: right; width: 120px;">
+<button onclick="spectate(); setmaxIdleTime(120); return false;" class="btn btn-warning btn-spectate btn-needs-server" data-itr="spectate">Spectate</button>
+<button type="button" onclick="$('#anunciododindin, #skinsandersonpica').toggle();return false;" class="btn btn-success" style="width:110px; float:right;">Skins</button>
+<button onclick="logout(); return false;" class="btn btn-danger btn-logout" data-itr="logout">Logout</button>
+</div>
+<br clear="all">
+</div>
+
+<div id="instructions">
+<center><span class="text-muted">
+<span data-itr="instructions_mouse"><b>Comandos do Jogo</b></span><br>
+<span data-itr="instructions_space"><b>Espaço:</b> Se dividir</span><br>
+<span data-itr="instructions_w"><b>W:</b> Ejetar massa</span><br>
+</span></center>
+</div>
+</div></form>
+<div id="anunciododindin" class="checkbox" style="display:none;">
+<center>
+<!-- agario1 -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-6937517272591712" data-ad-slot="7022291982"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+</div>
+<div id="skinsandersonpica">
+<b>Skins: clique para usar</b>
+<div style="width:100%; height:195px; overflow-y: scroll">
+<div id="skinsCatalog"></div>
+<div style="width:100%; margin-top:5px; margin-bottom:10px; text-align:center;" id="loadMoreSkinsButton"><a href="#" style="text-decoration: none;" onclick="getSkins(196)"><b>Carregar + 200</b></a></div>
+</div>
+
+</div>
+<hr>
+<center>Site e funções por agar.io, Sistemas adicionais por <a href="skype:positivo5654?add">AndersonS.L</a> &amp; <a href="skype:everton.neri.da.silva?add">LoToS</a> <p style="color:#FF0000;">Nova Versão</p></center>
+</div>
+
+<div id="stats" style="display: none;" class="agario-panel">
+<h2><center>Match Results</center></h2>
+<canvas id="statsGraph" width="350" height="200"></canvas>
+<div id="statsPelletsContainer">
+ 
+<span id="statsText" class="stats-food-eaten"></span>
+<span id="statsSubtext" data-itr="stats_food_eaten">food eaten</span>
+</div>
+<div id="statsHighestMassContainer">
+ 
+<span id="statsText" class="stats-highest-mass"></span>
+<span id="statsSubtext" data-itr="stats_highest_mass">highest mass</span>
+</div>
+<div id="statsTimeAliveContainer">
+ 
+<span id="statsText" class="stats-time-alive"></span>
+<span id="statsSubtext" data-itr="stats_time_alive">time alive</span>
+</div>
+<div id="statsTimeLeaderboardContainer">
+ 
+<span id="statsText" class="stats-leaderboard-time"></span>
+<span id="statsSubtext" data-itr="stats_leaderboard_time">leaderboard time</span>
+</div>
+<div id="statsPlayerCellsEatenContainer">
+ 
+<span id="statsText" class="stats-cells-eaten"></span>
+<span id="statsSubtext" data-itr="stats_cells_eaten">cells eaten</span>
+</div>
+<div id="statsTopPositionContainer">
+ 
+<span id="statsText" class="stats-top-position">?</span>
+<span id="statsSubtext" data-itr="stats_top_position">top position</span>
+</div>
+<hr style="position:absolute;bottom:350px;width:100%;margin:0px;">
+<!--<form method="get" action="/redirect.html">-->
+<button id="statsContinue" class="btn btn-primary" data-itr="continue" onclick="closeStats();">Continue</button>
+<!--</form>-->
+<hr style="position:absolute;bottom:255px;width:100%;">
+<div class="clearfix"></div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+<!-- agario continue -->
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-6937517272591712" data-ad-slot="9307239589"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+
+
+</div>
+<div class="side-container">
+
+
+
+
+<div class="agario-panel" style="width:230px; height:auto">
+<h4><center>Ranking</center></h4>
+<div id="scores"><div style="clear:both"></div>
+
+﻿  <table>
+<tbody><tr>
+	<td width="70px" align="center"><b>Nº</b></td><td width="200px"><b>Nick</b></td><td><b>Score</b></td>
+</tr><tr>
+			<td align="center">1</td><td>ATHOR</td><td>89644</td>
+			</tr>  <tr>
+			<td align="center">2</td><td>♔яลเиђล♔</td><td>81955</td>
+			</tr>  <tr>
+			<td align="center">3</td><td>VƗŘ€ ΜỮŦΔŇŦ€ ™</td><td>77139</td>
+			</tr>  <tr>
+			<td align="center">4</td><td> ƬΛG ☬ MATHEUS</td><td>76987</td>
+			</tr>  <tr>
+			<td align="center">5</td><td>OoKronos®</td><td>76815</td>
+			</tr>  <tr>
+			<td align="center">6</td><td>M3L0</td><td>76572</td>
+			</tr>  <tr>
+			<td align="center">7</td><td>ZEUS</td><td>75411</td>
+			</tr>  <tr>
+			<td align="center">8</td><td>Little Ball</td><td>75247</td>
+			</tr>  <tr>
+			<td align="center">9</td><td>ƬΛG ☬ Luiz</td><td>74456</td>
+			</tr>  <tr>
+			<td align="center">10</td><td>prazer, ILLUSÃO</td><td>74260</td>
+			</tr>  <tr>
+			<td align="center">11</td><td>jumbo</td><td>73375</td>
+			</tr>  <tr>
+			<td align="center">12</td><td>JAMESTK</td><td>73290</td>
+			</tr>  <tr>
+			<td align="center">13</td><td>☣℘६ىᵰ∂eℓΌ☣</td><td>72608</td>
+			</tr>  <tr>
+			<td align="center">14</td><td>→Mυтαηтє™ ☣</td><td>71620</td>
+			</tr>  <tr>
+			<td align="center">15</td><td>20Destruir</td><td>70804</td>
+			</tr>  </tbody></table>
+<div style="clear:both"></div></div>
+<div style="font-size:9px;"><center>Atualização a cada 90 segundos</center></div>
+<hr><div style="font-size:12px;color:red"><center>Para aparecer no ranking você precisa estar logado</center></div></div>
+<div class="agario-panel" style="width:230px; height:224px">
+<center>
+<!-- agario2 -->
+<ins class="adsbygoogle" style="display:inline-block;width:190px;height:210px" data-ad-client="ca-pub-8763263514983671" data-ad-slot="5417336748"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></center>
+
+</div>
+
+</div>
+</div>
+<div class="tosBox">
+<center>
+<a href="privacy.txt" class="text-muted" data-itr="privacy_policy">Privacy Policy</a>
+|
+<a onclick="requestAds(); return false;" href="terms.txt" class="text-muted" data-itr="terms_of_service">Terms of Service</a>
+|
+</center>
+</div>
+
+
+
+</div>
+<div id="connecting" style="position: absolute; left: 0px; right: 0px; top: 0px; bottom: 0px; z-index: 100; display: none;">
+<div class="connecting-panel" style="width: 350px; background-color: #FFFFFF; margin: auto; border-radius: 15px; padding: 5px 15px 5px 15px;">
+<h2 data-itr="connecting">Conectando</h2>
+<p data-itr="connect_help">Se você não conseguir se conectar ao servidor, certifique-se se seu firewall não está bloqueando a conexão.</p>
+</div>
+</div>
+
+
+
+
+<div id="mascara" style="z-index:998; background-color: #000; position:absolute; opacity: 0.80;filter: alpha(opacity=80); display:none; width:100%; height:100%;"></div>
+
+<canvas id="canvas" width="2293" height="773"></canvas>
+
+<div style="font-family:'Ubuntu'">&nbsp;</div>
+
+
+
+<script type="text/javascript" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="js/ads.js?23"></script>
+
+
+<iframe src="online.html" scrolling="no" style="position:fixed;bottom:0px;right:0px;" frameborder="0" height="15" width="80"></iframe>
+<div id="adContainer" style="position: absolute; bottom: 10px; margin: 0px auto; height: 90px; width: 728px; visibility: hidden; z-index: 999; left: 782.5px;"></div>
+<script>
+$("#adContainer").center();
+$( window ).resize(function() {
+	$("#adContainer").center();
+});
+</script>
+
+
+<!--<script src="js/minimap.js?2"></script>-->
+<iframe tabindex="-1" style="width: 1px; height: 1px; position: absolute; top: -100px;" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fagario.com.br&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.fr.w4ahBDOJ_Mc.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMfNRlUdVR6vUwKMQfZVk0kQg1WqQ#rpctoken=1547255183&amp;forcesecure=1" id="oauth2relay563020517" name="oauth2relay563020517"></iframe><div style="display: block; visibility: hidden; position: absolute; width: 106px; left: -1000px; top: -1000px;"><table dir="ltr" style="width:106px;" frame="void" rules="none" class=" gc-bubbleDefault pls-container" cellpadding="0" cellspacing="0"><tbody><tr class="gc-reset"><td class="pls-topLeft gc-reset"><img class="gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif"></td><td class="pls-topTail gc-reset"><img class="pls-tailbottom gc-reset" style="width:15px !important; height:9px !important; max-width: 15px !important; max-height: 9px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"><img class="pls-spacerbottom gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-topRight gc-reset"><img class="gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif"></td></tr><tr class="gc-reset"><td class="pls-vertShimLeft gc-reset"><img class="gc-reset" style="width:1px !important; height:4px !important; max-width: 1px !important; max-height: 4px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-vertShim gc-reset"><img class="gc-reset" style="width:1px !important; height:4px !important; max-width: 1px !important; max-height: 4px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-vertShimRight gc-reset"><img class="pls-dropTR gc-reset" style="width:5px !important; height:4px !important; max-width: 5px !important; max-height: 4px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td></tr><tr class="gc-reset"><td class="pls-contentLeft gc-reset"><img class="pls-tailright gc-reset" style="width:9px !important; height:15px !important; max-width: 9px !important; max-height: 15px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"><img class="pls-spacerright gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-contentWrap gc-reset"><div class="goog-bubble-content gc-reset"><iframe src="https://www.youtube.com/subscribe_embed?action_card=1&amp;channelid=UCDDcKBnVu_4OqdbC8abMpDg&amp;usegapi=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.fr.w4ahBDOJ_Mc.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCMfNRlUdVR6vUwKMQfZVk0kQg1WqQ#id=I0_1464278851984&amp;parent=http%3A%2F%2Fagario.com.br&amp;pfname=&amp;rpctoken=31857402" name="I0_1464278851984" id="I0_1464278851984" vspace="0" tabindex="0" style="margin:0px;position:absolute;z-index:1;border-style:none;outline:none;width:100px;" scrolling="no" marginwidth="0" marginheight="0" hspace="0" frameborder="0" width="100%"></iframe></div></td><td class="pls-dropRight gc-reset"><img class="pls-tailleft gc-reset" style="width:12px !important; height:19px !important; max-width: 12px !important; max-height: 19px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"><img class="pls-spacerleft gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td></tr><tr class="gc-reset"><td class="pls-bottomLeft gc-reset"><img class="gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif"></td><td class="gc-reset"><table style="width:100%" class="gc-reset" cellpadding="0" cellspacing="0"><tbody><tr class="gc-reset"><td class="pls-vert gc-reset"><img class="pls-dropBL gc-reset" style="width:4px !important; height:5px !important; max-width: 4px !important; max-height: 5px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td><td class="pls-dropBottom gc-reset"><img class="pls-tailtop gc-reset" style="width:19px !important; height:13px !important; max-width: 19px !important; max-height: 13px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"><img class="pls-spacertop gc-reset" style="width:1px !important; height:1px !important; max-width: 1px !important; max-height: 1px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td></tr></tbody></table></td><td class="pls-vert gc-reset"><img class="pls-dropBR gc-reset" style="width:5px !important; height:5px !important; max-width: 5px !important; max-height: 5px !important;" src="https://ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/spacer.gif"></td></tr></tbody></table></div></body></html>
